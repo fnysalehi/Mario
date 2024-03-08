@@ -1,0 +1,3 @@
+/home/fsalehi/Mario/cmake-build-debug/CMakeFiles/Mario.dir
+/home/fsalehi/Mario/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fsalehi/Mario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
